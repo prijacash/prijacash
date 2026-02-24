@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prija
-- 👀 I’m interested in React, Express, Python, Mongo, Node and Crypto
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in Openclaw, Rork, React, Express, Python, Mongo, Node and Crypto.
+- 🌱 I’m currently vibecoding.
 - 💞️ I’m looking to collaborate on full-stack apps.
 - 📫 How to reach me ...Linkedin: https://www.linkedin.com/in/prijacash/
 
